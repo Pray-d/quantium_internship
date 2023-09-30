@@ -1,9 +1,9 @@
-# quantum_internship
+# Quantium_internship
 
 
-## Quantum Internship - Ship's Cookies Sales Analysis
+## Quantium Internship - Ship's Cookies Sales Analysis
 
-This repository contains the code and documentation for the Quantum Internship task related to analyzing Ship's Cookies sales data and providing commercial recommendations based on customer analytics.
+This repository contains the code and documentation for the Quantium Internship task related to analyzing Ship's Cookies sales data and providing commercial recommendations based on customer analytics.
 
 ### Task Overview
 
